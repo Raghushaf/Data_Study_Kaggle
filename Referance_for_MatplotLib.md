@@ -1,5 +1,5 @@
 # `All of the referances link for Learning:`
-## 1.`For NumPy:`
+## `For NumPy:`
 
 
 ## `For Pandas`
