@@ -1,10 +1,12 @@
-## `This are all the referance for matplotLib Learning.`
+# `All of the referances link for Learning:`
+## 1.`For NumPy:`
 
 
-### Referances Link:
-- https://www.fusioncharts.com/dev/chart-guide/standard-charts/overlapped-column-and-bar-charts
-
-- https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
-
-## `This are all the referance for pandas Library`
+## `For Pandas`
 - https://www.skytowner.com/explore/pandas_api_reference
+
+
+## `For MatplotLib`:
+- https://www.fusioncharts.com/dev/chart-guide/standard-charts/overlapped-column-and-bar-charts
+- 
+- https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
