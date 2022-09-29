@@ -2,7 +2,7 @@
 ## `For NumPy:`
 
 
-## `For Pandas`
+## `For Pandas`:
 - https://www.skytowner.com/explore/pandas_api_reference
 
 
