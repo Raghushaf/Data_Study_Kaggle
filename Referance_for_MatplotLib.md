@@ -9,3 +9,7 @@
 ## `For MatplotLib`:
 - https://www.fusioncharts.com/dev/chart-guide/standard-charts/overlapped-column-and-bar-charts
 - https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+
+## `DATA ANALYSIS COURSE AND VIDEOS:`:
+- https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
+- 
