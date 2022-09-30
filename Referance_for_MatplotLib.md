@@ -11,5 +11,6 @@
 - https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
 
 ## `DATA ANALYSIS COURSE AND VIDEOS:`:
-- https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
-- 
+- https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas.       FOR Data Analysis with Python: Zero to Pandas
+- https://youtu.be/8DvywoWv6fI    Python for Everybody - Full University Python Course
+
