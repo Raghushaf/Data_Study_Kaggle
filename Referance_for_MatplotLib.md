@@ -13,4 +13,7 @@
 ## `DATA ANALYSIS COURSE AND VIDEOS:`:
 - https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas.       FOR Data Analysis with Python: Zero to Pandas
 - https://youtu.be/8DvywoWv6fI    Python for Everybody - Full University Python Course
+
+# `Visualization Chart:`
+- https://datavizcatalogue.com.   Types of charts.
 - https://www.finereport.com/en/data-visualization/top-16-types-of-chart-in-data-visualization.html       Diffrent Kind of charts
